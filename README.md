@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @suricforever
-- 👀 I’m interested in Coding and Basketball
-- 🌱 I’m currently learning iOS & Android & Web
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in iOS & Android & Web
 
 <!---
 suricforever/suricforever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
