@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @suricforever
-- 👀 I’m interested in iOS & Android & Web
+- Hi, I’m @suricforever who is interested in iOS & Android & Web
 
 <!---
 suricforever/suricforever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
