@@ -1,4 +1,4 @@
-- I’m Suric, who is interested in iOS & Android & Web
+- Suric, who is interested in iOS & Android & Web
 
 <!---
 suricforever/suricforever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
